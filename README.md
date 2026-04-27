@@ -20,11 +20,11 @@
 
 ---
 
-Security engineer building AI systems. MEng Cybersecurity at the University of Maryland. My work sits at the intersection of application security, cloud architecture, and LLM-driven automation — engineering systems that are both capable and defensible from first principles.
+Security engineer building AI systems. MEng Cybersecurity at the University of Maryland. My work sits at the intersection of application security, cloud architecture, and LLM-driven automation, building systems that are both capable and defensible from first principles.
 
 I've built kernel-level rootkits to understand evasion at the syscall level, designed multi-layer security platforms in Rust, implemented end-to-end encrypted communication stacks for automotive ADAS systems, and architected AI pipelines that process hundreds of sources into actionable intelligence daily.
 
-**Current focus:** [Meridian](https://github.com/johnsaurabh/Meridian) — a multi-agent intelligence system that filters signal from high-volume information streams and delivers what actually matters, when it matters.
+**Current focus:** [Meridian](https://github.com/johnsaurabh/Meridian), a multi-agent intelligence system that filters signal from high-volume information streams and delivers what actually matters, when it matters.
 
 ---
 
@@ -34,7 +34,7 @@ I've built kernel-level rootkits to understand evasion at the syscall level, des
 |---------|--------------|-------|
 | [**Meridian**](https://github.com/johnsaurabh/Meridian) | Multi-agent AI intelligence system with persistent memory, real-time workflows, and an iOS companion | Python · TypeScript · Claude API · RAG |
 | [**Tartarus Gate**](https://github.com/johnsaurabh/Tartarus_Gate) | Layered security platform: WAF + ML-based malware detection + active threat neutralization | Rust · Python |
-| [**News Aggregator**](https://github.com/johnsaurabh/NewsAggregator) | Serverless AI pipeline — 19 sources, LLM-filtered, curated intelligence delivered daily by email | Python · AWS Lambda · DynamoDB · Claude API |
+| [**News Aggregator**](https://github.com/johnsaurabh/NewsAggregator) | Serverless AI pipeline: 19 sources, LLM-filtered, curated intelligence delivered daily by email | Python · AWS Lambda · DynamoDB · Claude API |
 | [**Automotive Security**](https://github.com/johnsaurabh/automotive-secure-communication-demo) | TLS 1.3 + AES-256-GCM secure ADAS communication with full STRIDE threat model and local PKI | Python |
 | [**CyberSec Research**](https://github.com/johnsaurabh/CyberSecProjects) | Security research lab: DNS spoofing detection, AES reverse shells, steganography, rootkit analysis | Python · C |
 
