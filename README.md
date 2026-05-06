@@ -24,7 +24,7 @@ Security engineer building AI systems. MEng Cybersecurity at the University of M
 
 I've built kernel-level rootkits to understand evasion at the syscall level, designed multi-layer security platforms in Rust, implemented end-to-end encrypted communication stacks for automotive ADAS systems, and architected AI pipelines that process hundreds of sources into actionable intelligence daily.
 
-**Current focus:** [Meridian](https://github.com/johnsaurabh/Meridian), a multi-agent intelligence system that filters signal from high-volume information streams and delivers what actually matters, when it matters.
+**Current focus:** [Meridian](https://app.johnsaurabh.com), a multi-agent intelligence system that filters signal from high-volume information streams and delivers what actually matters, when it matters.
 
 ---
 
@@ -32,11 +32,30 @@ I've built kernel-level rootkits to understand evasion at the syscall level, des
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| [**Meridian**](https://github.com/johnsaurabh/Meridian) | Multi-agent AI intelligence system with persistent memory, real-time workflows, and an iOS companion | Python · TypeScript · Claude API · RAG |
+| [**Meridian**](https://app.johnsaurabh.com) | Multi-agent AI intelligence system with persistent memory, real-time workflows, and an iOS companion | Python · TypeScript · Claude API · RAG |
 | [**Tartarus Gate**](https://github.com/johnsaurabh/Tartarus_Gate) | Layered security platform: WAF + ML-based malware detection + active threat neutralization | Rust · Python |
 | [**News Aggregator**](https://github.com/johnsaurabh/NewsAggregator) | Serverless AI pipeline: 19 sources, LLM-filtered, curated intelligence delivered daily by email | Python · AWS Lambda · DynamoDB · Claude API |
 | [**Automotive Security**](https://github.com/johnsaurabh/automotive-secure-communication-demo) | TLS 1.3 + AES-256-GCM secure ADAS communication with full STRIDE threat model and local PKI | Python |
 | [**CyberSec Research**](https://github.com/johnsaurabh/CyberSecProjects) | Security research lab: DNS spoofing detection, AES reverse shells, steganography, rootkit analysis | Python · C |
+
+---
+
+## Projects
+
+| Repository | Description | Stack |
+|------------|-------------|-------|
+| [**Meridian**](https://app.johnsaurabh.com) | Multi-agent AI intelligence system with persistent memory and real-time workflows · *live* | Python · TypeScript · Claude API |
+| [**NewsAggregator**](https://github.com/johnsaurabh/NewsAggregator) | Serverless AI pipeline: 19 sources, LLM-filtered intelligence delivered daily | Python · AWS |
+| **threat-intel** · [live](https://johnsaurabh.com/threat-intel) · [repo](https://github.com/johnsaurabh/threat-intel) | CVE feed: 5-tier classification, EPSS scoring, AI-enriched MITRE mappings | TypeScript |
+| [**CyberSecProjects**](https://github.com/johnsaurabh/CyberSecProjects) | Security research: rootkits, C2 simulation, DNS spoofing, phishing detection | Python · C |
+| [**ReverseShell**](https://github.com/johnsaurabh/ReverseShell) | AES-encrypted reverse shell with C2 communication | Python |
+| [**vehicle-threat-model**](https://github.com/johnsaurabh/vehicle-threat-model) | STRIDE threat model for automotive ECU and ADAS architecture | Mermaid |
+| [**automotive-secure-communication-demo**](https://github.com/johnsaurabh/automotive-secure-communication-demo) | TLS 1.3 + AES-256-GCM ADAS comms with mutual certificate auth and local PKI | Python |
+| [**folio**](https://github.com/johnsaurabh/folio) | GraphQL API for editorial publishing workflows | Go · PostgreSQL |
+| [**PocketCoach**](https://github.com/johnsaurabh/PocketCoach) | Real-time iOS exercise form analyzer using Vision body pose estimation | Swift |
+| [**Flashforge**](https://github.com/johnsaurabh/Flashforge) | iOS app: OCR + Claude API to generate flashcards from anything you read | Swift |
+| [**SwiftProjects**](https://github.com/johnsaurabh/SwiftProjects) | iOS projects built in Swift and SwiftUI | Swift |
+| [**neetcode-submissions-dsa**](https://github.com/johnsaurabh/neetcode-submissions-dsa) | Algorithm problem solutions from NeetCode.io | Python |
 
 ---
 
