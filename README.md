@@ -47,6 +47,7 @@ I've built kernel-level rootkits to understand evasion at the syscall level, des
 | [**Meridian**](https://app.johnsaurabh.com) | Multi-agent AI intelligence system with persistent memory and real-time workflows · *live* | Python · TypeScript · Claude API |
 | [**NewsAggregator**](https://github.com/johnsaurabh/NewsAggregator) | Serverless AI pipeline: 19 sources, LLM-filtered intelligence delivered daily | Python · AWS |
 | **threat-intel** · [live](https://johnsaurabh.com/threat-intel) · [repo](https://github.com/johnsaurabh/threat-intel) | CVE feed: 5-tier classification, EPSS scoring, AI-enriched MITRE mappings | TypeScript |
+| [**fleet-ops-api**](https://github.com/johnsaurabh/fleet-ops-api) | REST API for fleet management: vehicles, drivers, trips, and maintenance with JWT auth and role-based access | Java · Spring Boot · PostgreSQL |
 | [**CyberSecProjects**](https://github.com/johnsaurabh/CyberSecProjects) | Security research: rootkits, C2 simulation, DNS spoofing, phishing detection | Python · C |
 | [**ReverseShell**](https://github.com/johnsaurabh/ReverseShell) | AES-encrypted reverse shell with C2 communication | Python |
 | [**vehicle-threat-model**](https://github.com/johnsaurabh/vehicle-threat-model) | STRIDE threat model for automotive ECU and ADAS architecture | Mermaid |
