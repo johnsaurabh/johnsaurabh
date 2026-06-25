@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=640&lines=Security+Engineer+%C2%B7+AI+Systems;Building+where+security+meets+intelligence;MEng+Cybersecurity+%C2%B7+University+of+Maryland)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=640&lines=Software+Engineer+%C2%B7+AI+Systems;Building+where+security+meets+intelligence;MEng+Cybersecurity+%C2%B7+University+of+Maryland)](https://git.io/typing-svg)
 
 <h1>John Saurabh</h1>
 
