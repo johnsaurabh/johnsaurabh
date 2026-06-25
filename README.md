@@ -89,8 +89,6 @@ LLMs RAG Systems Claude API Agentic Systems
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=johnsaurabh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00a8ff&text_color=c8d6e5&count_private=true" />
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsaurabh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c8d6e5&langs_count=6&hide=html,css" />
-
 </div>
 
 ---
