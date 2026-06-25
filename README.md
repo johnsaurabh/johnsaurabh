@@ -20,9 +20,7 @@
 
 ---
 
-Software engineer building Backend systems. MEng Cybersecurity at the University of Maryland. My work sits at the intersection of application Development, Backend Systems, and LLM-driven automation, building systems that are both capable and defensible from first principles.
-
-I've built kernel-level rootkits to understand evasion at the syscall level, designed multi-layer security platforms in Python, implemented end-to-end encrypted communication stacks for automotive ADAS systems, and architected AI pipelines that process hundreds of sources into actionable intelligence daily.
+Software Engineer specializing in distributed systems, database internals, and backend infrastructure in C++. Built a Raft-based distributed key-value store, an LSM-tree storage engine with MVCC, and a Kafka-style message queue from scratch. MEng Cybersecurity, University of Maryland. I build systems from first principles.
 
 **Current focus:** [Meridian](https://app.johnsaurabh.com), a multi-agent intelligence system that filters signal from high-volume information streams and delivers what actually matters, when it matters.
 
@@ -62,20 +60,28 @@ I've built kernel-level rootkits to understand evasion at the syscall level, des
 
 ## Stack
 
-**Security**
-`Threat Modeling (STRIDE · PASTA)` `Application Security` `Penetration Testing` `Cloud Security (AWS IAM)` `LLM Security` `OWASP Top 10` `Cryptography` `Web Security (XSS · CSRF · SSRF · SQLi)`
-
-**AI / ML**
-`LLMs` `RAG Systems` `Multi-Agent Architectures` `Claude API` `LangChain` `Agentic Systems` `LLM Security`
-
 **Languages**
-`Python` `TypeScript` `Rust` `Go` `C`
+C++ Python SQL Go C TypeScript
+
+**Distributed Systems & Database Internals**
+
+Raft Consensus Leader Election Log Replication Consistent Hashing LSM-Tree WAL MVCC SSTable Bloom Filters Leveled Compaction Partitioned Message Queues In-Sync Replica Tracking
 
 **Cloud & Infrastructure**
-`AWS (Lambda · DynamoDB · S3 · IAM · EventBridge · Secrets Manager)` `Docker` `Terraform` `Linux`
 
-**Frameworks**
-`FastAPI` `React` `Flask`
+AWS (Lambda · DynamoDB · S3 · IAM · ECS · CDK · SQS · SES) Docker Linux
+
+**Backend & Systems**
+
+REST APIs ETL Pipelines PostgreSQL MySQL Redis System Design OOP Design CI/CD
+
+**Security**
+
+Threat Modeling Application Security Cryptography OWASP Top 10 Penetration Testing
+
+**AI / ML**
+
+LLMs RAG Systems Claude API Agentic Systems
 
 ---
 
