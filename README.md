@@ -20,9 +20,9 @@
 
 ---
 
-Security engineer building AI systems. MEng Cybersecurity at the University of Maryland. My work sits at the intersection of application security, cloud architecture, and LLM-driven automation, building systems that are both capable and defensible from first principles.
+Software engineer building Backend systems. MEng Cybersecurity at the University of Maryland. My work sits at the intersection of application Development, Backend Systems, and LLM-driven automation, building systems that are both capable and defensible from first principles.
 
-I've built kernel-level rootkits to understand evasion at the syscall level, designed multi-layer security platforms in Rust, implemented end-to-end encrypted communication stacks for automotive ADAS systems, and architected AI pipelines that process hundreds of sources into actionable intelligence daily.
+I've built kernel-level rootkits to understand evasion at the syscall level, designed multi-layer security platforms in Python, implemented end-to-end encrypted communication stacks for automotive ADAS systems, and architected AI pipelines that process hundreds of sources into actionable intelligence daily.
 
 **Current focus:** [Meridian](https://app.johnsaurabh.com), a multi-agent intelligence system that filters signal from high-volume information streams and delivers what actually matters, when it matters.
 
