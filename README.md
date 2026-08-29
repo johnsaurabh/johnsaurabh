@@ -20,7 +20,7 @@
 
 ---
 
-I'm a software engineer with a deep background in Machine Learning, Data Science, distributed systems, and backend infrastructure.I love to write code and train models in Machine Learning. I like understanding how things work at every layer, which means I have a tendency to build things from scratch when I could probably just use a library. It's a problem I've made peace with.
+I'm a software engineer with a deep background in machine learning, data science, distributed systems, and backend infrastructure. I love to write code and train models in Machine Learning. I like understanding how things work at every layer, which means I have a tendency to build things from scratch when I could probably just use a library. It's a problem I've made peace with.
 
  I'm very fascinated by life sciences and actively look to use my skills to solve problems in those fields. I reguarly build projects related to neuroscience, computational biology, and the intersection of machine learning with both. I love thinking about how do biological systems encode and transmit information, how do ecological networks self-organize, what do large-scale vision and language models actually learn when trained on biological data, and whether any of that maps onto how real neural systems operate.
 
