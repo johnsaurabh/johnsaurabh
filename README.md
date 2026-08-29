@@ -20,7 +20,17 @@
 
 ---
 
-Software Engineer specializing in distributed systems, database internals, and backend infrastructure in C++. Built a Raft-based distributed key-value store, an LSM-tree storage engine with MVCC, and a Kafka-style message queue from scratch. MEng Cybersecurity, University of Maryland. I build systems from first principles.
+I'm a software engineer with a deep background in Machine Learning, Data Science, distributed systems, and backend infrastructure.I love to write code and train models in Machine Learning. I like understanding how things work at every layer, which means I have a tendency to build things from scratch when I could probably just use a library. It's a problem I've made peace with.
+
+ I'm very fascinated by life sciences and actively look to use my skills to solve problems in those fields. I reguarly build projects related to neuroscience, computational biology, and the intersection of machine learning with both. I love thinking about how do biological systems encode and transmit information, how do ecological networks self-organize, what do large-scale vision and language models actually learn when trained on biological data, and whether any of that maps onto how real neural systems operate.
+
+The Neuro-AI space is where I think the next genuinely interesting things will happen. The idea of applying ML to biological datasets and using what we know about biological computation to better understand Artifical systems and vice versa(The vice versa is very important. Imagine my suprise when I founnd out we can actually understand more about our brain by experimenting with Artifical Networks) 
+
+So, to summarize, my interests are wide and varied but all of them are connected by my love for life and curiosity toward intelligent machines.
+
+I'm currently at the early stages of bridging my systems background into computational biology and neuroscience research. This page is where that work lives. I welcome any opportunities for research.
+
+
 
 **Current focus:** [Meridian](https://app.johnsaurabh.com), a multi-agent intelligence system that filters signal from high-volume information streams and delivers what actually matters, when it matters.
 
@@ -81,7 +91,7 @@ Threat Modeling Application Security Cryptography OWASP Top 10 Penetration Testi
 
 **AI / ML**
 
-LLMs RAG Systems Claude API Agentic Systems
+Machine Learning, LLMs RAG Systems Claude API Agentic Systems
 
 ---
 
